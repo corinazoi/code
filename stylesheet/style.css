@@ -28,14 +28,48 @@ p3
     font-size: large;
     font-weight: bolder;
 }
-p4
+.intro
 {
 
+    font-size: large;
     padding: 20px;
     color: white
 }
-p5
+.trees
 { 
+    font-size: large;
+    padding: 20px;
+    color: white;
+}
+.animals
+{
+    font-size: large;
+    padding: 20px;
+    color: white;
+}
+
+.ar
+{
+    width: 400px;
+}
+.amazon
+{
+    width: 450px;
+}
+h6
+{
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    padding:15px;
+    color: coral;
     
+}
+.con
+{
+    padding: 20px;
+    text-align: center;
+    font-family: fantasy;
+    font-size: larger;
     color: white;
 }
