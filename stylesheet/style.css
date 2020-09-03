@@ -1,0 +1,41 @@
+h1
+{ 
+    text-align: center;
+    padding: 15px;
+    color: green;
+    font-family: courier;
+}
+body
+{
+background-color: black;
+}
+p1
+{
+    color: coral;
+  font-size: large;
+  font-weight: bolder;
+  
+}
+p2
+{
+  color: coral;
+  font-size: large;
+  font-weight: bolder;
+}
+p3
+{
+    color: coral;
+    font-size: large;
+    font-weight: bolder;
+}
+p4
+{
+
+    padding: 20px;
+    color: white
+}
+p5
+{ 
+    
+    color: white;
+}
