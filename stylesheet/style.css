@@ -100,3 +100,27 @@ h6
     font-size: x-large;
     font-family: cursive;
 }
+h2
+{
+    color: white;
+}
+.social a {
+    padding: 0 .5em;
+    color: coral;
+  }
+  .aria
+  {
+      color: coral;
+  }
+  .form-group
+  {
+      color: coral;
+  }
+  .form-texttext-muted
+  {
+      color: coral;
+  }
+  .btnbtn-primary
+  {
+      color: coral;
+  }
