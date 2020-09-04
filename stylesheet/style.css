@@ -73,3 +73,23 @@ h6
     font-size: larger;
     color: white;
 }
+.plant
+{
+    text-align: center;
+    width:1000px
+    
+}
+.goal
+{
+    padding: 20px;
+    text-align: center;
+    font-size: medium;
+    color: white;
+    font-family: cursive;
+}
+.b
+{
+    padding: 20px;
+    text-align: center;
+    width: 900px;
+}
